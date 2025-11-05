@@ -1,3 +1,4 @@
+import streamlit as st
 st.title("💖 感情ためこみタイプのあなたへ")
 
 st.write("""
